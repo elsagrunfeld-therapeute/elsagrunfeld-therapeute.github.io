@@ -3,48 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/blog/</loc>
+    <loc>./blog/</loc>
     <lastmod>2016-11-05T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/categories/</loc>
+    <loc>./categories/</loc>
     <lastmod>2016-11-05T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>./</loc>
     <lastmod>2016-11-05T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/blog/2016/11/05/therapiecouple/</loc>
+    <loc>./blog/2016/11/05/therapiecouple/</loc>
     <lastmod>2016-11-05T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/tags/</loc>
-    <lastmod>2016-11-05T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://replace-this-with-your-hugo-site.com/categories/therapie/</loc>
+    <loc>./tags/</loc>
     <lastmod>2016-11-05T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/tags/therapie/</loc>
+    <loc>./categories/therapie/</loc>
     <lastmod>2016-11-05T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/contact/</loc>
+    <loc>./tags/therapie/</loc>
+    <lastmod>2016-11-05T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./contact/</loc>
   </url>
   
 </urlset>

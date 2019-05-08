@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Elsa Grunfeld Therapeute</title>
-    <link>http://replace-this-with-your-hugo-site.com/blog/</link>
+    <link>./blog/</link>
     <description>Recent content in Blogs on Elsa Grunfeld Therapeute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 05 Nov 2016 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Le couple un cheminement à deux</title>
-      <link>http://replace-this-with-your-hugo-site.com/blog/2016/11/05/therapiecouple/</link>
+      <link>./blog/2016/11/05/therapiecouple/</link>
       <pubDate>Sat, 05 Nov 2016 13:50:46 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/blog/2016/11/05/therapiecouple/</guid>
+      <guid>./blog/2016/11/05/therapiecouple/</guid>
       <description>Vous rencontrez des difficultés dans votre couple, votre vie à deux vous parait peu sasfaisante, vous souhaitez évoluer avec votre partenaire mais comment ?
 Je vous propose une approche dynamique pour vous accompagner sur votre chemin&amp;hellip;
 Une approche systémique et humaniste Le couple est plus qu’une interaction à deux. Il est issu également d’un héritage ancestral, d&amp;rsquo;une histoire individuelle, familiale, collective.
