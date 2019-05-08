@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Elsa Grunfeld Therapeute</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/</link>
+    <description>Recent content in Tags on Elsa Grunfeld Therapeute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 05 Nov 2016 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://replace-this-with-your-hugo-site.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>therapie</title>
+      <link>http://replace-this-with-your-hugo-site.com/tags/therapie/</link>
+      <pubDate>Sat, 05 Nov 2016 13:50:46 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/tags/therapie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
