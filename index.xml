@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elsa Grunfeld Therapeute</title>
-    <link>./</link>
+    <link>/</link>
     <description>Recent content on Elsa Grunfeld Therapeute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 05 Nov 2016 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Le couple un cheminement à deux</title>
-      <link>./blog/2016/11/05/therapiecouple/</link>
+      <link>/blog/2016/11/05/therapiecouple/</link>
       <pubDate>Sat, 05 Nov 2016 13:50:46 +0200</pubDate>
       
-      <guid>./blog/2016/11/05/therapiecouple/</guid>
+      <guid>/blog/2016/11/05/therapiecouple/</guid>
       <description>Vous rencontrez des difficultés dans votre couple, votre vie à deux vous parait peu sasfaisante, vous souhaitez évoluer avec votre partenaire mais comment ?
 Je vous propose une approche dynamique pour vous accompagner sur votre chemin&amp;hellip;
 Une approche systémique et humaniste Le couple est plus qu’une interaction à deux. Il est issu également d’un héritage ancestral, d&amp;rsquo;une histoire individuelle, familiale, collective.
@@ -25,10 +25,10 @@ Il est donc mû par des ressorts inconscients (individuels et de couple) et ces 
     
     <item>
       <title>Contact</title>
-      <link>./contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./contact/</guid>
+      <guid>/contact/</guid>
       <description>Le couple un cheminement à deux Vous rencontrez des difficultés dans votre couple, votre vie à deux vous parait peu satisfaisante, vous souhaitez évoluer avec votre partenaire mais comment ?
 Je vous propose une approche dynamique pour vous accompagner sur votre chemin&amp;hellip;
 Informations pratiques Les séances ont une durée de 45 minutes à 1 heure. La fréquence en est définie conjointement.

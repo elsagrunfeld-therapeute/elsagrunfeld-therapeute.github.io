@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Elsa Grunfeld Therapeute</title>
-    <link>./tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Elsa Grunfeld Therapeute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 05 Nov 2016 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>therapie</title>
-      <link>./tags/therapie/</link>
+      <link>/tags/therapie/</link>
       <pubDate>Sat, 05 Nov 2016 13:50:46 +0200</pubDate>
       
-      <guid>./tags/therapie/</guid>
+      <guid>/tags/therapie/</guid>
       <description></description>
     </item>
     
